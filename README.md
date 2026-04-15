@@ -1,6 +1,6 @@
 # The Crazy Florist
 
-## 📖 Overview
+## Overview
 
 **Crazy Florist** is a web-based e-commerce system developed as a final project.
 It allows users to browse flower products, add items to cart, and place orders using different payment methods such as **Cash on Delivery, GCash, and Maya**.
